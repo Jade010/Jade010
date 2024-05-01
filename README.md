@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Jade
 
-<!--
-**Jade010/Jade010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Tools
+- **Languages:** Python, Java, JavaScript, C#, R
+- **Databases:** PostgreSQL, MySQL, SQLite, Microsoft SQL Server, MongoDB
+- **Web Development:** HTML, CSS, ASP.NET
+- **Visualization:** Tableau, Power BI, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Contacts
+ - [Connect on LinkedIn](https://www.linkedin.com/in/jade-aidoghie/)
+ - [My Personal Website](Jade010.github.io)
+ - [Email Me](mailto:jaderenneea@gmail.com)

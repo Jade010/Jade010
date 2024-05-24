@@ -9,5 +9,4 @@ Data Analyst and Developer experienced in query optimization, data modeling, dat
 
  ### Contacts
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/jade-aidoghie/)
- - My personal [website](Jade010.github.io)
- - [Email Me](mailto:jaderenneea@gmail.com)
+ - My personal [website](https://Jade010.github.io)

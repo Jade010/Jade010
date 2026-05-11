@@ -9,24 +9,17 @@ class Jade:
     degree     = "Data Analytics"
     graduated  = 2024
     goal       = "Database Developer"
-    tools = {
-        "Databases"   : ["SQL Server (T-SQL)", "PostgreSQL (PL/pgSQL)", "MySQL", "SQLite"],
-        "Languages"   : ["Python", "R", "SQL"],
-        "ETL/ELT"     : ["SSIS", "Python"],
-        "Analytics"   : ["Power BI", "Tableau", "Excel (PivotTables, Power Query)"],
-        "Workflow"    : ["Git/GitHub", "VS Code"]
-    }
-    hobbies = [
-        "crochet",
-        "personal projects that actually solve my own problems",
-        "hiking",
-        "writing story ideas"
-    ]
-    links = {
-        "LinkedIn" : "https://www.linkedin.com/in/jade-aidoghie",
-        "GitHub"   : "https://github.com/Jade010"
-        "Website"  : "https://jade010.github.io"
-    }
-
 
 ```
+
+## Tech Stack
+**Databases:** SQL Server (T-SQL), PostgreSQL (PL/pgSQL), MySQL, SQLite  
+**Languages:** Python, R, SQL  
+**ETL/ELT:** SSIS, Python  
+**Analytics:** Power BI, Tableau, Excel (PivotTables, Power Query)  
+**Workflow:** Git/GitHub, VS Code  
+
+## Link
+[LinkedIn](https://www.linkedin.com/in/jade-aidoghie)  
+[GitHub](https://github.com/Jade010)  
+[Website](https://jade010.github.io)  

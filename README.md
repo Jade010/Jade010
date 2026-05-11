@@ -25,14 +25,8 @@ class Jade:
     links = {
         "LinkedIn" : "https://www.linkedin.com/in/jade-aidoghie",
         "GitHub"   : "https://github.com/Jade010"
+        "Website"  : "https://jade010.github.io"
     }
 
 
 ```
-
-**[Personal Website](https://jade010.github.io/#home)**  
-While I'm definitely not a website developer, I do love creating my own projects for creative purposes so I've created my own portfolio website using GitHub pages.  
-  
-> **Highlights:** Interactive design, filterable project section, education map, and mini project generator.
-
-
